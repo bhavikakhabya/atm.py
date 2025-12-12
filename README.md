@@ -10,7 +10,7 @@
 
 🎯 The goal is to help beginners understand conditions, variables, and user input.
 
-----------------------------------------------------
+---------------------------------------------------
 
 🧩 Concepts Used
 
@@ -26,7 +26,7 @@
 
 📌 Basic validation
 
-----------------------------------------------
+---------------------------------------------
 
 🛠️ How the Program Works (Step-by-Step)
 
@@ -98,7 +98,7 @@ Balance increases.
 
 ❗ Wrong menu option → “Invalid Option”.
 
--------------------------------------------------
+------------------------------------------------
 
 🧠 Code Explanation 
 
@@ -148,7 +148,7 @@ This block runs ONLY for user 1.
 
 ➕ Add the entered amount to the balance variable.
 
----------------------------------------------
+--------------------------------------------
 
 ▶️ How to Run This Program
 
@@ -162,7 +162,7 @@ python atm.py
 
 Follow on-screen instructions
 
--------------------------------------------
+------------------------------------------
 
 🚀 Future Enhancements
 
